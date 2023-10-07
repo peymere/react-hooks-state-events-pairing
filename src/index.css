@@ -10,3 +10,12 @@ body {
 .App {
   text-align: center;
 }
+
+.comments {
+  list-style: none;
+}
+
+.comments li {
+  text-align: center;
+}
+
